@@ -1,0 +1,9 @@
+D:\SVN\GitHub\CSharp.Util\bin\Debug\CSharp.Util.dll
+D:\SVN\GitHub\CSharp.Util\bin\Debug\CSharp.Util.pdb
+D:\SVN\GitHub\CSharp.Util\obj\Debug\CSharp.Util.dll
+D:\SVN\GitHub\CSharp.Util\obj\Debug\CSharp.Util.pdb
+D:\GitHub\CSharp.Util\CSharp.Util\bin\Debug\CSharp.Util.dll
+D:\GitHub\CSharp.Util\CSharp.Util\bin\Debug\CSharp.Util.pdb
+D:\GitHub\CSharp.Util\CSharp.Util\obj\Debug\CSharp.Util.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp.Util\CSharp.Util\obj\Debug\CSharp.Util.dll
+D:\GitHub\CSharp.Util\CSharp.Util\obj\Debug\CSharp.Util.pdb

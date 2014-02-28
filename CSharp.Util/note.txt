@@ -1,0 +1,2 @@
+﻿CSharp.Util.Text.EncodingTools	网络	文件编码自动识别类
+CSharp.Util.DataTableMapper	原创	DataTable转换成实体类

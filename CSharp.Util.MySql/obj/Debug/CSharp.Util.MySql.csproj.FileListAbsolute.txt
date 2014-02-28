@@ -1,0 +1,13 @@
+D:\GitHub\CSharp.Util\CSharp.Util.Extension\bin\Debug\CSharp.Util.Extension.dll
+D:\GitHub\CSharp.Util\CSharp.Util.Extension\bin\Debug\CSharp.Util.Extension.pdb
+D:\GitHub\CSharp.Util\CSharp.Util.Extension\bin\Debug\CSharp.Util.dll
+D:\GitHub\CSharp.Util\CSharp.Util.Extension\bin\Debug\CSharp.Util.pdb
+D:\GitHub\CSharp.Util\CSharp.Util.Extension\obj\Debug\CSharp.Util.Extension.dll
+D:\GitHub\CSharp.Util\CSharp.Util.Extension\obj\Debug\CSharp.Util.Extension.pdb
+D:\GitHub\CSharp.Util\CSharp.Util.MySql\bin\Debug\CSharp.Util.Extension.dll
+D:\GitHub\CSharp.Util\CSharp.Util.MySql\bin\Debug\CSharp.Util.Extension.pdb
+D:\GitHub\CSharp.Util\CSharp.Util.MySql\bin\Debug\CSharp.Util.dll
+D:\GitHub\CSharp.Util\CSharp.Util.MySql\bin\Debug\CSharp.Util.pdb
+D:\GitHub\CSharp.Util\CSharp.Util.MySql\obj\Debug\CSharp.Util.MySql.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp.Util\CSharp.Util.MySql\obj\Debug\CSharp.Util.Extension.dll
+D:\GitHub\CSharp.Util\CSharp.Util.MySql\obj\Debug\CSharp.Util.Extension.pdb

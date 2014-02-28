@@ -1,0 +1,4 @@
+D:\SVN\GitHub\CSharp.Util\bin\Release\CSharp.Util.dll
+D:\SVN\GitHub\CSharp.Util\bin\Release\CSharp.Util.pdb
+D:\SVN\GitHub\CSharp.Util\obj\Release\CSharp.Util.dll
+D:\SVN\GitHub\CSharp.Util\obj\Release\CSharp.Util.pdb
