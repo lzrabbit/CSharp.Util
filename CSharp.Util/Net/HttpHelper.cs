@@ -24,7 +24,7 @@ namespace CSharp.Util.Net
 
         public static string SendPost(string url, string data)
         {
-            return Send(url, "POST", null, null);
+            return Send(url, "POST", data, null);
         }
 
         public static string SendGet(string url)

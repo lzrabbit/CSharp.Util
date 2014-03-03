@@ -1,8 +1,0 @@
-D:\SVN\GitHub\CSharp.Util.Extension\bin\Release\CSharp.Util.Extension.dll
-D:\SVN\GitHub\CSharp.Util.Extension\bin\Release\CSharp.Util.Extension.pdb
-D:\SVN\GitHub\CSharp.Util.Extension\bin\Release\CSharp.Util.dll
-D:\SVN\GitHub\CSharp.Util.Extension\bin\Release\MySql.Data.dll
-D:\SVN\GitHub\CSharp.Util.Extension\bin\Release\CSharp.Util.pdb
-D:\SVN\GitHub\CSharp.Util.Extension\obj\Release\CSharp.Util.Extension.csprojResolveAssemblyReference.cache
-D:\SVN\GitHub\CSharp.Util.Extension\obj\Release\CSharp.Util.Extension.dll
-D:\SVN\GitHub\CSharp.Util.Extension\obj\Release\CSharp.Util.Extension.pdb
