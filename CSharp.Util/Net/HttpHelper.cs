@@ -223,13 +223,16 @@ namespace CSharp.Util.Net
         /// <returns></returns>
         public static string GetClientIP()
         {
-            string ip;
-            if (System.Web.HttpContext.Current.Request.ServerVariables["HTTP_VIA"] != null)
-                ip = System.Web.HttpContext.Current.Request.ServerVariables["HTTP_X_FORWARDED_FOR"].Split(',')[0];
-            else
-                ip = System.Web.HttpContext.Current.Request.ServerVariables["REMOTE_ADDR"];
+            string ip = string.Empty;
+            if (System.Web.HttpContext.Current != null)
+            {
+                if (System.Web.HttpContext.Current.Request.ServerVariables["HTTP_VIA"] != null)
+                    ip = System.Web.HttpContext.Current.Request.ServerVariables["HTTP_X_FORWARDED_FOR"].Split(',')[0];
+                else
+                    ip = System.Web.HttpContext.Current.Request.ServerVariables["REMOTE_ADDR"];
 
-            if (string.IsNullOrEmpty(ip)) ip = System.Web.HttpContext.Current.Request.UserHostAddress;
+                if (string.IsNullOrEmpty(ip)) ip = System.Web.HttpContext.Current.Request.UserHostAddress;
+            }
             return ip;
         }
 

@@ -45,6 +45,7 @@
     <Compile Include="Data\DataTableHelper.cs" />
     <Compile Include="Data\SqlHelper.cs" />
     <Compile Include="Data\XmlHelper.cs" />
+    <Compile Include="EnumDesc.cs" />
     <Compile Include="Net\FtpHelper.cs" />
     <Compile Include="Security\Encrypt.cs" />
     <Compile Include="Net\HttpHelper.cs" />
